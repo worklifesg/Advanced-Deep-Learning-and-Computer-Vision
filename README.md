@@ -28,5 +28,5 @@ Fundamental Definitions/Terms:
     ```
 
 **Practice Exercises:**
-  * Image Pre-processing (Data Manipulation)
+  * Image Pre-processing (Data Manipulation) - [Week Folder](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/tree/main/Week%201), [Notebook](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%201/1_ImagePreprocessingOperations_matplotlib.ipynb)
     
