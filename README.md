@@ -1,5 +1,10 @@
 ## Advanced-Deep-Learning-and-Computer-Vision
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+![1](https://img.shields.io/badge/Python-3.6%2C%203.8.3-green) ![2](https://img.shields.io/badge/Tensorflow-2.3.0-orange)
+
+
 This is a course from AI Engineer program from SimpliLearn. In this course, we will be able to classify different advanced models of machine learning:
 ```
 Boltzman machines/RBM/DBNs
