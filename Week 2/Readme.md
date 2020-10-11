@@ -19,9 +19,9 @@ Temporal Difference VAE (TD-VAE)
 
 **Class Learning Notebooks**
 
-  * AdvancedDL_OpenCV_10Oct2020
+  * [[Class Live Notebook 10 October 2020](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/AdvancedDL_OpenCV_10Oct2020.ipynb)] - [Dataset](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/train%20(1).zip)
 
-**Assisted Practice Projects**
+**Assisted Practice Projects** (To be completed)
 
   * Build an Movie Recommendation System Using RBM
   * Use Variational Autoencoder with Tensorflow to generater images using MNIST dataset
