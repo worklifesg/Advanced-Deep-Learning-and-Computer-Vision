@@ -34,4 +34,11 @@ Fundamental Definitions/Terms:
 
 **Practice Exercises:**
   * Image Pre-processing (Data Manipulation) - [Week Folder](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/tree/main/Week%201), [Notebook](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%201/1_ImagePreprocessingOperations_matplotlib.ipynb)
+  * RBM/Autoencoders- [Week Folder](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/tree/main/Week%202), [Notebook - RBM](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/RBM_Practice_MNIST.ipynb), [Notebook - Autoencoders Part 1](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/AdvancedDL_OpenCV_10Oct2020.ipynb), [Dataset](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/train%20(1).zip)
+
+**Assisted Practice Projects** (To be completed)
+
+  * Build an Movie Recommendation System Using RBM
+  * Use Variational Autoencoder with Tensorflow to generater images using MNIST dataset
+  * Use Variational Autoencoder with Keras to generate images using the MNIST dataset
     
