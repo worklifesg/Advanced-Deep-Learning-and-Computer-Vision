@@ -21,6 +21,7 @@ Temporal Difference VAE (TD-VAE)
 
   * [[RBM Practice Notebook - MNIST](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/RBM_Practice_MNIST.ipynb)]
   * [[Class Live Notebook 10 October 2020](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/AdvancedDL_OpenCV_10Oct2020.ipynb)] - [Dataset](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/train%20(1).zip)
+  * [[Class Live Notebook 11 October 2020](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/AdvancedDL_OpenCV_11Oct2020.ipynb)] - [[Notebook 2](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/AdvancedDL_OpenCV_11Oct2020_Part2.ipynb)]
 
 **Assisted Practice Projects** (To be completed)
 
