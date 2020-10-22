@@ -4,6 +4,9 @@
 
 ![1](https://img.shields.io/badge/Python-3.6%2C%203.8.3-green) ![2](https://img.shields.io/badge/Tensorflow-2.3.0-orange)
 
+![1](https://img.shields.io/badge/Platform-AWS%20SageMaker-orange) 
+![2](https://img.shields.io/badge/Kernel-TensorFlow%202%20GPU%20Optimized-green) 
+![3](https://img.shields.io/badge/Instance-4%20vCPU%20%2B%2016%20GiB%20%2B%201%20GPU-blue) 
 
 This is a course from AI Engineer program from SimpliLearn. In this course, we will be able to classify different advanced models of machine learning:
 ```
@@ -35,11 +38,15 @@ Fundamental Definitions/Terms:
 **Practice Exercises:**
   * Image Pre-processing (Data Manipulation) - [Week Folder](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/tree/main/Week%201), [Notebook](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%201/1_ImagePreprocessingOperations_matplotlib.ipynb)
   * RBM/Autoencoders- [Week Folder](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/tree/main/Week%202), [Notebook - RBM](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/RBM_Practice_MNIST.ipynb), [Notebook - Autoencoders Part 1](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/AdvancedDL_OpenCV_10Oct2020.ipynb), [Notebook - Autoencoders Part 2](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/AdvancedDL_OpenCV_11Oct2020.ipynb), [Dataset](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/train%20(1).zip)
-  * Generative Adversarial Networks (GANs) - [Week Folder](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/tree/main/Week%202), [Notebook - GAN Part 1](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/AdvancedDL_OpenCV_11Oct2020_Part2.ipynb)
+  * Generative Adversarial Networks - I (GANs) - [Week Folder](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/tree/main/Week%202), [Notebook - GAN Part 1](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%202/AdvancedDL_OpenCV_11Oct2020_Part2.ipynb)
+  * Generative Adversarial Networks - II (GANs) and Neural transfer / Object Detection - [Week Folder](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/tree/main/Week%203), [[Notebook 1 DCGAN CIFAR10](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%203/dcgan_cifar10.ipynb)], [[Generated Image](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%203/generated_plot_e050.png)], [[Output .h5 File](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%203/generator_model_050.h5)], [[Notebook 2 CGAN FASHION MNIST](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%203/cgan_fashion_mnist.ipynb)], [[Output .h5 File](https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/Week%203/cgan_generator.h5)]
 
 **Assisted Practice Projects** (To be completed)
 
   * Build an Movie Recommendation System Using RBM
   * Use Variational Autoencoder with Tensorflow to generater images using MNIST dataset
   * Use Variational Autoencoder with Keras to generate images using the MNIST dataset
+  
+  * Use Keras or TensorFlow to build a deep generative model that will translate drawings of shoes to designs.
+  * Use YOLO v3 pretrained model for object detection
     
