@@ -24,3 +24,17 @@
   * The model training is done using x_train and y_train with validation data as x_valid and y_valid. owever for evaluating model, we use x_test and y_test which gives us loss ~0.2435 with an accuracy of 93.75%.
   
 ### Results (Figures)
+
+<p align="center">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/images/dataset%20images.png">
+</p> 
+
+<p align="center">
+  <img width="350" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/images/Activation_results1.png">
+  <img width="350" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/images/Activation_results2.png">
+</p> 
+
+<p align="center">
+  <img width="350" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/images/Final_results1.png">
+  <img width="350" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Advanced-Deep-Learning-and-Computer-Vision/blob/main/images/Final_results2.png">
+</p> 
